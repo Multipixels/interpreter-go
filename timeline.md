@@ -18,3 +18,9 @@
 - What is a parser. We will create a "recursive descent parser", in particular a "top down operator precedence" parser (or a Pratt Parser).
 - Parse let statements (without the expression)
 - Print out list of errors in test suite
+
+## 2024/11/06
+- Ch 2.5-2.7
+- Parse return statements (without the expression)
+- Parse expressions using Pratt Parsing
+    - Implement order of operations (without grouping)

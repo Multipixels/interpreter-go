@@ -24,3 +24,8 @@
 - Parse return statements (without the expression)
 - Parse expressions using Pratt Parsing
     - Implement order of operations (without grouping)
+
+## 2024/11/09
+- Ch 2.8-2.9
+- Finish the parser
+    - Parse booleans, grouped expressions, if expressions, functions, and function calls.

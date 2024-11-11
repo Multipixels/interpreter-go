@@ -29,3 +29,10 @@
 - Ch 2.8-2.9
 - Finish the parser
     - Parse booleans, grouped expressions, if expressions, functions, and function calls.
+
+## 2024/11/10
+- Ch 3.1-3.6
+- Learn about evaluation strategies (tree-walk, convert to bytecode, JIT)
+- Create objects that wrap simple types
+- Evaluate integer and boolean expressions
+- Add conditional expressions

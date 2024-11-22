@@ -36,3 +36,10 @@
 - Create objects that wrap simple types
 - Evaluate integer and boolean expressions
 - Add conditional expressions
+
+## 2024/11/21
+- Ch 3.7-3.10
+- Return values (and dealing with nested blocks of statements)
+- Report errors
+- Set up an environment to support let statements and variables
+- Support functions and functino calls

@@ -43,3 +43,8 @@
 - Report errors
 - Set up an environment to support let statements and variables
 - Support functions and functino calls
+
+## 2024/11/22
+- Ch 3.11, Ch 4.1-4.2
+- Accept that implementing a garbage collection system in GO is out of scope, and reuse GO's garbage collector.
+- Add strings and support concatenation

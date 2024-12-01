@@ -48,3 +48,10 @@
 - Ch 3.11, Ch 4.1-4.2
 - Accept that implementing a garbage collection system in GO is out of scope, and reuse GO's garbage collector.
 - Add strings and support concatenation
+
+## 2024/11/30
+- Ch 4.3-4.6
+- Create support for built-in functions (and implement len, first, last, rest, push)
+- Add arrays and hash tables
+- Add printing to the console (via the built-in function puts())
+- Officially finish following along to *Writing an Interpreter in Go* by Thorsten Ball

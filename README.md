@@ -1,4 +1,4 @@
-## Advent of Code
+# Writing an Interpreter
 
 This repo is where I follow along to Thorsten Ball's _Writing an Interpreter in Go_ book (which can be found here: <https://interpreterbook.com/>) to create an interpreter for the Monkey programming language.
 
